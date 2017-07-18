@@ -36,6 +36,6 @@ while True:
     
     guess = int(input("Guess: "))
 if score1 > score2:
-    print("player1 wins!")
+    print("Player1 wins!")
 else:
-    print("player2 wins!")
+    print("Player2 wins!")
